@@ -1,4 +1,4 @@
-# Ticketarangement
+# Ticket Arraignment
 
 I'm introduce you to our super simple yet advanced plane ticket arrangement program. It’s like having your personal ticket agent right on your computer. Here's how it all works:
 
