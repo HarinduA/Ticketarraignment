@@ -26,7 +26,7 @@ This program is written in Java – yes, the language that runs half the world�
 
 Data Management: We use lists and files to keep track of who’s sitting where. It’s like a virtual seating chart.
 User-Friendly Interface: Simple prompts guide you through booking, canceling, and viewing seats. You don’t need to be a tech wizard to use this.
-File Generation: After you book a seat, the program generates a receipt file with all the details. Perfect for your records.
+File Generation: After you book a seat, the program generates a receipt file with all the details. Perfect for your records. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
